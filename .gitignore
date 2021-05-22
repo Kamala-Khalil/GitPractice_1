@@ -1,3 +1,6 @@
 /GitPractice_1.iml
 /.idea/
 /out/
+target
+.idea
+*.iml
